@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrieving_images_from_firebase</string>
+    <string name="title_activity_images">ImagesActivity</string>
+</resources>
